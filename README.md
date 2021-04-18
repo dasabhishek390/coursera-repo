@@ -1,2 +1,2 @@
-# courera-repo
+# coursera-repo
 Repositiory for coursera nodeJS
